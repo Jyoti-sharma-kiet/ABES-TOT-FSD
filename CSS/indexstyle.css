@@ -1,0 +1,37 @@
+*
+{
+    background-color: blueviolet;
+}
+h1{
+            font-size: large;
+            color: blue;
+        }
+#p1{
+    background-color: aliceblue;
+}
+.paragraph{
+    background-color: beige;
+    color: black;
+    font-size: larger;
+}
+div>p{
+    background-color: red;
+    color: brown;
+}
+p:hover{
+    font-size: x-large;
+    background-color: pink;
+    color: green;
+}
+p::before{
+    content: "Welcome to the class of FSD ";
+    
+}
+p::after{
+    content:"Best Of Luck";
+    background-color: grey;
+    font-size: small;
+}
+p::selection{
+    background-color: purple;
+}
