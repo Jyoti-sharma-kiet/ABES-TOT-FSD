@@ -79,10 +79,40 @@ grid-template-columns: 1fr 1fr;
     background-color: green;
 }
 .box3{
-       height: 210px;
+       display: grid;
+grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: 210px;
     width: 300px;
-    border: 2px solid pink;
-    background-color: pink;
+    border: 2px solid yellow;
+    background-color: yellowgreen;
+}
+.box31{
+    
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: green;
+}
+.box32{
+    
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: green;
+}
+.box33{
+    
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: green;
+}
+.box34{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: green;
 }
 .box4{
     
