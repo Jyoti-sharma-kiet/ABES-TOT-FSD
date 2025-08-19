@@ -1,0 +1,29 @@
+.box{
+    display: grid;
+    height: 600px;
+    width: 800px;
+    border: 2px solid black;
+}
+.box1{
+   
+    height: 200px;
+    width: 150px;
+    border: 2px solid red;
+}
+.box2{
+    
+    height: 200px;
+    width: 150px;
+    border: 2px solid yellow;
+}
+.box3{
+        height: 200px;
+    width: 150px;
+    border: 2px solid pink;
+}
+.box4{
+    
+    height: 200px;
+    width: 1500px;
+    border: 2px solid cyan;
+}
