@@ -1,6 +1,6 @@
 .box{
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     height: 600px;
     width: 800px;
     border: 2px solid black;
@@ -10,21 +10,25 @@
     height: 200px;
     width: 150px;
     border: 2px solid red;
+    background-color: purple;
 }
 .box2{
     
     height: 200px;
     width: 150px;
     border: 2px solid yellow;
+    background-color: purple;
 }
 .box3{
         height: 200px;
     width: 150px;
     border: 2px solid pink;
+    background-color: purple;
 }
 .box4{
     
     height: 200px;
     width: 150px;
     border: 2px solid cyan;
+    background-color: purple;
 }
