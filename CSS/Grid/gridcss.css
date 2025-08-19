@@ -1,19 +1,18 @@
 .box{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
     height: 600px;
     width: 800px;
     border: 2px solid black;
 }
 .box1{
-   
     height: 200px;
     width: 150px;
     border: 2px solid red;
     background-color: purple;
 }
 .box2{
-    
     height: 200px;
     width: 150px;
     border: 2px solid yellow;
@@ -26,6 +25,20 @@
     background-color: purple;
 }
 .box4{
+    
+    height: 200px;
+    width: 150px;
+    border: 2px solid cyan;
+    background-color: purple;
+}
+.box5{
+    
+    height: 200px;
+    width: 150px;
+    border: 2px solid cyan;
+    background-color: purple;
+}
+.box6{
     
     height: 200px;
     width: 150px;
