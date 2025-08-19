@@ -1,5 +1,6 @@
 .box{
     display: grid;
+    grid-template-columns: repeat(4,1fr);
     height: 600px;
     width: 800px;
     border: 2px solid black;
@@ -24,6 +25,6 @@
 .box4{
     
     height: 200px;
-    width: 1500px;
+    width: 150px;
     border: 2px solid cyan;
 }
