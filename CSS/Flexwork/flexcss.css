@@ -5,3 +5,27 @@
     width: 800px;
     background-color: aqua;
 }
+.box1{
+height: 150px;
+width: 200px;
+border: 1px dotted green;
+background-color: yellow;
+}
+.box2{
+   height: 150px;
+width: 200px;
+border: 1px dotted green;
+background-color: yellow; 
+}
+.box3{
+  height: 150px;
+width: 200px;
+border: 1px dotted green;
+background-color: yellow;  
+}
+.box4{
+  height: 150px;
+width: 200px;
+border: 1px dotted green;
+background-color: yellow;  
+}
