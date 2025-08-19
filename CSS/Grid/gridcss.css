@@ -1,47 +1,79 @@
 .box{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     height: 600px;
     width: 800px;
     border: 2px solid black;
 }
 .box1{
-    height: 200px;
-    width: 150px;
+    grid-column-start: 1;
+    grid-column-end: 6;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    height: auto;
+    width: auto;
     border: 2px solid red;
     background-color: purple;
 }
 .box2{
+
     height: 200px;
     width: 150px;
     border: 2px solid yellow;
-    background-color: purple;
+    background-color: yellowgreen;
+}
+.box21{
+    
+    height: 50px;
+    width: auto;
+    border: 2px solid yellow;
+    background-color: green;
+}
+.box22{
+    
+    height: 50px;
+    width: auto;
+    border: 2px solid yellow;
+    background-color: green;
+}
+.box23{
+    
+    height: 50px;
+    width: auto;
+    border: 2px solid yellow;
+    background-color: green;
+}
+.box24{
+    height: 50px;
+    width: auto;
+    border: 2px solid yellow;
+    background-color: green;
 }
 .box3{
         height: 200px;
     width: 150px;
     border: 2px solid pink;
-    background-color: purple;
+    background-color: yellowgreen;
 }
 .box4{
     
     height: 200px;
     width: 150px;
     border: 2px solid cyan;
-    background-color: purple;
+    background-color: yellowgreen;
 }
 .box5{
     
     height: 200px;
     width: 150px;
     border: 2px solid cyan;
-    background-color: purple;
+    background-color: yellowgreen;
 }
 .box6{
     
     height: 200px;
     width: 150px;
     border: 2px solid cyan;
-    background-color: purple;
+    background-color: yellowgreen;
 }
