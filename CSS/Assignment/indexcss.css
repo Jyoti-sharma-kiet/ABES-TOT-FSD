@@ -67,31 +67,28 @@ grid-template-columns: 1fr 1fr;
     background-color: yellowgreen;
 }
 .box11{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box12{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box13{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box14{
-    height: 105px;
+   height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box2{
 display: grid;
@@ -103,31 +100,28 @@ grid-template-columns: 1fr 1fr;
     background-color: yellowgreen;
 }
 .box21{
-    
-    height: 105px;
+   height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box22{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box23{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box24{
-    height: 105px;
+   height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box3{
        display: grid;
@@ -139,31 +133,28 @@ grid-template-columns: 1fr 1fr;
     background-color: yellowgreen;
 }
 .box31{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box32{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box33{
-    
-    height: 105px;
+   height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box34{
-    height: 105px;
+   height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box4{
     display: grid;
@@ -175,29 +166,26 @@ grid-template-columns: 1fr 1fr;
     background-color: yellowgreen;
 }
 .box41{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box42{
-    
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box43{
-    
-    height: 105px;
+   height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
 .box44{
     height: 105px;
     width: 150px;
     border: 1px solid yellow;
-    background-color: green;
+    background-color: black;
 }
