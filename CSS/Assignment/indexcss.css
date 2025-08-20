@@ -166,9 +166,38 @@ grid-template-columns: 1fr 1fr;
     background-color: green;
 }
 .box4{
-    
+    display: grid;
+grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     height: 210px;
     width: 300px;
-    border: 2px solid cyan;
-    background-color: pink;
+    border: 2px solid yellow;
+    background-color: yellowgreen;
+}
+.box41{
+    
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: green;
+}
+.box42{
+    
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: green;
+}
+.box43{
+    
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: green;
+}
+.box44{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: green;
 }
