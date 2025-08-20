@@ -29,6 +29,11 @@ console.log(data())
 const sum = (a,b)=>{
     return a+b;
 }
+
 console.log(sum(20,30))
 const add = (a,b)=>a+b;
 console.log(add(23,40));
+(()=>{console.log("bakwaas")})();
+(function(){console.log("aur bhi zyada")})();
+function greet(msg="hello"){console.log("sab gol"+msg);}
+console.log(greet());
