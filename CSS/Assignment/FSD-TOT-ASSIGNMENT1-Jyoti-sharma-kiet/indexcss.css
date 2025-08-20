@@ -1,0 +1,191 @@
+/* /* .header{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    grid-template-rows: repeat(1,1fr);
+    height: 630px;
+    width: 1220px;
+    border: 2px solid black; */
+} */
+.bg-\[\#131921\] {
+    --tw-bg-opacity: 1;
+    background-color: rgb(19 25 33 / var(--tw-bg-opacity, 1));
+}
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+header {
+    display: block;
+    unicode-bidi: isolate;
+    height: 630px;
+    width: 1220px;
+}
+.py-3 {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+    width: 100%;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.items-center {
+    align-items: center;
+}
+.flex {
+    display: flex
+;
+}
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(243 244 246 / var(--tw-bg-opacity, 1));
+}
+.box{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    grid-template-rows: repeat(3,1fr);
+    height: 630px;
+    width: 1220px;
+    border: 2px solid black;
+}
+.box1{
+    display: grid;
+grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: 210px;
+    width: 300px;
+    border: 2px solid yellow;
+    background-color: yellowgreen;
+}
+.box11{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box12{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box13{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box14{
+   height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box2{
+display: grid;
+grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: 210px;
+    width: 300px;
+    border: 2px solid yellow;
+    background-color: yellowgreen;
+}
+.box21{
+   height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box22{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box23{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box24{
+   height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box3{
+       display: grid;
+grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: 210px;
+    width: 300px;
+    border: 2px solid yellow;
+    background-color: yellowgreen;
+}
+.box31{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box32{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box33{
+   height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box34{
+   height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box4{
+    display: grid;
+grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: 210px;
+    width: 300px;
+    border: 2px solid yellow;
+    background-color: yellowgreen;
+}
+.box41{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box42{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box43{
+   height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
+.box44{
+    height: 105px;
+    width: 150px;
+    border: 1px solid yellow;
+    background-color: black;
+}
