@@ -73,6 +73,10 @@
       background: #e45472;
       color: white;
     }
+    .btn-third{
+        background: #f4f4f9;
+        color: white;
+    }
     .hero-image {
       display: flex;
       justify-content: center;
